@@ -6,6 +6,7 @@
   "homepage": "https://github.com/TechDecryptor/pot-app-translate-plugin-moji_dict",
   "needs": [],
   "language": {
+    "auto": "auto",
     "zh_cn": "cn",
     "zh_tw": "cn",
     "mn_mo": "cn",
