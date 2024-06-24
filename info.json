@@ -1,5 +1,5 @@
 {
-  "id": "[plugin].com.pot-app.moji_dict",
+  "id": "plugin.com.pot-app.moji_dict",
   "plugin_type": "translate",
   "icon": "icon.svg",
   "display": "MOJi辞書",
